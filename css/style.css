@@ -33,7 +33,7 @@ header{
 }
 
 header h1 {
-    flood-color: aliceblue;
+    background-color: aliceblue;
     font-size: 2.8em;
     font-weight: 200;
     cursor: pointer;
@@ -41,5 +41,14 @@ header h1 {
 
 header h1:hover ,a: :hover{
     color:#fff
-    
+
 }
+
+footer {
+    background-color: #222;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
