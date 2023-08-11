@@ -10,17 +10,3 @@ background-color: antiquewhite;
 
 }
 
-header {
-    padding: 15px;
-    width: 15px;
-    display: inline-block;
-    background-color: black;
-    
-}
-
-nav.a {
-    padding: 15px;
-    width: 15px;
-    border:10px;
-    border-radius: 5cm;
-}
