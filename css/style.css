@@ -32,7 +32,7 @@ header h1 {
 }
 
 header nav {
-    
+    color: #fff;
     box-sizing: content-box;
     display: flex;
     align-items: center;
