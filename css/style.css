@@ -30,12 +30,14 @@ header h1 {
     font-weight: 200;
     color: #fff;
 }
+
 header nav {
+    width: 25px;
+    height: 30px;background-color: #fff;
     display: flex;
     align-items: center;
     cursor: pointer;
-    width: 15px;
-    height: 25px;background-color: #fff;
+   
 }
 
 header nav a {
