@@ -22,7 +22,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    cursor: pointer;
+    
 }
 
 header h1 {
@@ -33,6 +33,7 @@ header h1 {
 header nav {
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 header nav a {
