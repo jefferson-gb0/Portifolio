@@ -7,4 +7,17 @@
 
 body {
 background-color: antiquewhite;
+
+}
+
+header {
+    padding: 15px;
+    width: 15px;
+}
+
+header.nav.cards {
+    padding: 15px;
+    width: 15px;
+    border:10px;
+    border-radius: 5cm;
 }
